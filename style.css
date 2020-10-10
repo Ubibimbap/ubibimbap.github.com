@@ -24,6 +24,9 @@ text-transform: uppercase;
 	border-radius: 100px;
 	transition-duration: 0.5s;
 	height: 60px;
+	display: block;
+  	margin: auto;
+  	margin-top: 10px;
 }
 
 hr {
@@ -47,4 +50,11 @@ hr {
 
 .buffer {
 	height:10rem;
+}
+
+iframe {
+    display: block;
+  	margin: auto;
+  	margin-top: 100px;
+
 }
